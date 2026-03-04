@@ -1,4 +1,6 @@
 # proyecto de colaboracion en clase 
 
 ## lista de colaboradores
-- santi
+- Santiago Toledo Silvera
+- Juan Santiago Lagos Jaimes
+- El pepe
